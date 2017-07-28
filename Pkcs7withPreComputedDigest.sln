@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pkcs7withPreComputedDigest", "Pkcs7withPreComputedDigest\Pkcs7withPreComputedDigest.csproj", "{15D822A9-EA3A-4D64-8E39-F3A03D003D21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C1514566-35A3-4616-A195-60A2F9F9C360}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D822A9-EA3A-4D64-8E39-F3A03D003D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D822A9-EA3A-4D64-8E39-F3A03D003D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D822A9-EA3A-4D64-8E39-F3A03D003D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D822A9-EA3A-4D64-8E39-F3A03D003D21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
